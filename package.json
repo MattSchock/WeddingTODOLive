@@ -1,7 +1,7 @@
 {
   "name": "week9coding-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "Front End Technologies Week 9 Coding Assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,14 @@
   "dependencies": {
     "bootstrap": "^5.2.0",
     "jquery": "^3.6.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattSchock/WeddingTODO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattSchock/WeddingTODO/issues"
+  },
+  "homepage": "https://github.com/MattSchock/WeddingTODO#readme"
 }
