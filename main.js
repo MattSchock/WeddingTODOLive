@@ -1,1 +1,0 @@
-console.log('Text from Aric Bechdolt= I also remember a person I don/t know sucking my neck like a person with no teeth trying to eat corn on the cob');
